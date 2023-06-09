@@ -1,1 +1,0 @@
-su // to switch user 
