@@ -1,1 +1,1 @@
-Shell permission 
+su // to switch user 
